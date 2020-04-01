@@ -1,4 +1,4 @@
-### 0GNURadio Installation with PYBOMBS 
+### GNURadio Installation with PYBOMBS 
 This GNURadio installation is prepared to work with UBUNTU 18.04 LTS version. 
 
 
