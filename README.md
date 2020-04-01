@@ -25,7 +25,7 @@ sudo pip3 install --force-reinstall  --no-cache-dir --upgrade git+https://github
 ``` 
 #### 4. Configure Pybombs:
 ```
-pybombs recipes --no-cache  add-defaults
+pybombs recipes add-defaults
 pybombs recipes -v  add-defaults
 ```
 #### 5. Setting up a base folder to install GnuRadio:
