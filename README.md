@@ -69,9 +69,9 @@ cd ~/prefix/GNURADIO/
 sudo gedit setup_env.sh
 ```
 Add this path: "/home/user/prefix/GNURADIO/lib/python3/dist-packages"  to PYTHONPATH:
-Obs. In my case I've add this path to PYTHONPATH: "/home/user/prefix/GNURADIO/lib/python3/dist-packages..."
+Obs. In my case I've add this path to PYTHONPATH: "/home/aqualtune/prefix/GNURADIO/lib/python3/dist-packages..."
 ```
-export PYTHONPATH="~/prefix/GNURADIO/lib/python3/dist-packages:...blabla"
+export PYTHONPATH="/home/aqualtune/prefix/GNURADIO/lib/python3/dist-packages:...blabla"
 ```
  As explained here by gareth8118 <https://github.com/gnuradio/pybombs/issues/553>
 Save file
