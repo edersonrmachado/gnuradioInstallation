@@ -68,8 +68,8 @@ It will take some hours...
 cd ~/prefix/GNURADIO/
 sudo gedit setup_env.sh
 ```
-Add this path: "~/prefix/GNURADIO/lib/python3/dist-packages"  to PYTHONPATH:
-
+Add this path: "/home/user/prefix/GNURADIO/lib/python3/dist-packages"  to PYTHONPATH:
+Obs. In my case I've add this path to PYTHONPATH: "/home/user/prefix/GNURADIO/lib/python3/dist-packages..."
 ```
 export PYTHONPATH="~/prefix/GNURADIO/lib/python3/dist-packages:...blabla"
 ```
